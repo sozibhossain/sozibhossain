@@ -1,157 +1,95 @@
 <div align="center">
+  
+  # Hi there, I'm Md. Sozib Hossain 👋
+  ### Full-Stack Software Engineer | Web & Mobile App Developer
+  
+  <p align="center">
+    <a href="https://sozib-hossain.vercel.app"><img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+    <a href="https://www.linkedin.com/in/md-sozib-hossain-4a518038a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="mailto:sozibhossain69@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="https://fiverr.com/sozib3862"><img src="https://img.shields.io/badge/Fiverr-00B22D?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"/></a>
+    <a href="https://x.com/sozibhossain62"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+  </p>
 
-# Md. Sozib Hossain
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
-### Full-Stack Web & Mobile App Developer
+  *Engineering products, not just pages.*
 
-**Web · Backend · Mobile · Production Release**
+</div>
 
-[Portfolio](https://sozib-hossain.vercel.app) · [LinkedIn](https://www.linkedin.com/in/md-sozib-hossain-4a518038a) · [Fiverr](https://fiverr.com/sozib3862) · [Email](mailto:sozibhossain69@gmail.com) · [X](https://x.com/sozibhossain62)
+---
 
+## 👨‍💻 About Me
+
+I build complete web and mobile products—from responsive interfaces and backend APIs to databases, integrations, deployment, and app-store releases. 
+
+- 🔭 **Currently working on:** Building scalable admin dashboards (like `admin_dashboard-olorunmi`) using Next.js.
+- 🌱 **My daily environment:** I write code in Antigravity IDE, pair programming with Gemini 3.7 Flash to ship faster.
+- ⚙️ **Deployment focus:** Managing process cycles with PM2 and deploying full-stack apps on Linux VPS environments. 
+- 👨‍🏫 **Experience:** Almost 2 years as a Senior Executive Front-End Developer at Scaleup IT LTD, and 1 year mentoring 100+ learners at CodersTrust Bangladesh.
+- 🤝 **Freelance:** Successfully delivered 30+ freelance projects with a 5.0-star client rating.
+
+<div align="center">
+  
+  | 🌐 WEB APPS | 📊 DASHBOARDS | 🚀 LIVE PRODUCTS | 📱 MOBILE APPS | ⚙️ BACKENDS |
+  | :---: | :---: | :---: | :---: | :---: |
+  | **22+** | **33+** | **9** | **3+** | **7+** |
+
+</div>
+
+---
+
+## 🛠️ Technical Arsenal
+
+### Frontend
+<p>
+  <img src="https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
+</p>
+
+### Backend & Database
+<p>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" />
+</p>
+
+### Mobile & Deployment
+<p>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+</p>
+
+---
+
+## 🚀 Featured Production Work
+
+| Project | Type | Tech Stack | Links |
+|---------|------|------------|-------|
+| **Prophetic Pathway** | Full-Stack Web & Mobile | Next.js, React Native, WebRTC, Cloudinary | [Web](https://ej-ppathway-website.vercel.app/) • [App Store](https://apps.apple.com/us/app/prophetic-pathway/id6774471827) • [Play Store](https://play.google.com/store/apps/details?id=com.prophetic.ppathway) |
+| **Inspectors Path** | Mobile App | React Native, Node.js, Express, MongoDB | [App Store](https://apps.apple.com/us/app/inspectors-path/id6761355078) • [Play Store](https://play.google.com/store/apps/details?id=com.Khalid.inspectorspath) |
+| **Elevator Video Pitch** | Web SaaS | Next.js, React, Tailwind CSS | [Live Product](https://evpitch.com/) |
+| **DocMobi Healthcare** | Backend / Telehealth | Node.js, Express, MongoDB, Socket.IO | [Play Store](https://play.google.com/store/apps/details?id=com.docmobi.app&hl=en) |
+| **PJ Swag Portal** | Enterprise Portal | Next.js, TypeScript, Tailwind, shadcn/ui | [Live Portal](https://portal.pjswag.com/login) |
+
+*(Check out my [portfolio](https://sozib-hossain.vercel.app) for the full list of 9+ live products!)*
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="./assets/delivery.svg" width="100%" alt="Animated end-to-end product delivery pipeline" />
+  <br/>
+  <i>Available for selected freelance projects, product collaborations, and engineering opportunities. Let's build something great.</i>
 </div>
-
-## Engineering products, not just pages.
-
-I build complete web and mobile products—from responsive interfaces and backend APIs to databases, integrations, deployment, and app-store release.
-
-My experience includes almost **2 years as a Senior Executive Front-End Developer**, **1 year as a Web Mentor**, and independent delivery for global clients.
-
-<table width="100%">
-  <tr>
-    <td align="center"><strong>22+</strong><br/><sub>WEB APPS</sub></td>
-    <td align="center"><strong>33+</strong><br/><sub>DASHBOARDS</sub></td>
-    <td align="center"><strong>9</strong><br/><sub>LIVE PRODUCTS</sub></td>
-    <td align="center"><strong>3+</strong><br/><sub>MOBILE APPS</sub></td>
-    <td align="center"><strong>7+</strong><br/><sub>BACKENDS</sub></td>
-  </tr>
-</table>
-
-### What I bring to a product
-
-- **Frontend:** responsive interfaces and scalable component systems
-- **Backend:** APIs, authentication, databases, media, and real-time features
-- **Mobile:** cross-platform applications for iOS and Android
-- **Integrations:** payments, subscriptions, maps, cloud media, and AI APIs
-- **Release:** web, VPS, App Store, and Play Store deployment
-
-## Experience
-
-- **Senior Executive Front-End Developer — Scaleup IT LTD:** almost 2 years
-- **Web Mentor — CodersTrust Bangladesh:** 1 year, 100+ learners
-- **Independent Client Delivery:** 30+ freelance projects with a 5.0-star client rating
-
-## Production work
-
-<table width="100%">
-  <tr>
-    <td valign="top">
-      <strong>01 / Elevator Video Pitch</strong> &nbsp; <code>WEB · SAAS</code><br/>
-      Front-end for a video-first recruitment platform with multi-role profiles and job workflows.<br/>
-      <sub>Next.js · React · Tailwind CSS</sub><br/>
-      <a href="https://evpitch.com/">Live product ↗</a>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <strong>02 / Prophetic Pathway</strong> &nbsp; <code>FULL-STACK · WEB · MOBILE</code><br/>
-      Real-time consultation flows with video, audio, chat, wallet billing, recordings, and transcripts.<br/>
-      <sub>Next.js · React Native · TypeScript · WebRTC · Cloudinary</sub><br/>
-      <a href="https://ej-ppathway-website.vercel.app/">Web ↗</a> · <a href="https://apps.apple.com/us/app/prophetic-pathway/id6774471827">App Store ↗</a> · <a href="https://play.google.com/store/apps/details?id=com.prophetic.ppathway">Google Play ↗</a>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <strong>03 / Walk Throughz</strong> &nbsp; <code>WEB · LOCATION</code><br/>
-      Front-end for local discovery, media-rich place stories, deals, and PayPal payments.<br/>
-      <sub>Next.js · React · Tailwind CSS · Cloudinary · PayPal</sub><br/>
-      <a href="https://walkthroughz.com/">Live product ↗</a>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <strong>04 / EVPitch Pro Recruitment App</strong> &nbsp; <code>MOBILE</code><br/>
-      Full mobile delivery covering video pitches, resumes, jobs, recruiter chat, and subscriptions.<br/>
-      <sub>React Native · Node.js · Express · MongoDB · Video Streaming</sub><br/>
-      <a href="https://play.google.com/store/apps/details?id=com.evpitchrecruitment.careers">Google Play ↗</a>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <strong>05 / SPLURJJ</strong> &nbsp; <code>WEB · LIFESTYLE</code><br/>
-      Front-end for content discovery, media feeds, location-aware experiences, and goal tracking.<br/>
-      <sub>Next.js · React · TypeScript · Tailwind CSS</sub><br/>
-      <a href="https://www.splurjj.com/">Live product ↗</a>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <strong>06 / Diamond Auctions</strong> &nbsp; <code>WEB · E-COMMERCE</code><br/>
-      Front-end for auction discovery, bidder registration, and seller item submissions.<br/>
-      <sub>Next.js · React · Tailwind CSS</sub><br/>
-      <a href="https://diamondauctionsllc.com/">Live product ↗</a>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <strong>07 / Inspectors Path</strong> &nbsp; <code>MOBILE · IOS · ANDROID</code><br/>
-      Full exam-preparation app with timed tests, analytics, purchases, voice controls, and referrals.<br/>
-      <sub>React Native · RevenueCat · Node.js · Express · MongoDB · Speech-to-Text</sub><br/>
-      <a href="https://apps.apple.com/us/app/inspectors-path/id6761355078">App Store ↗</a> · <a href="https://play.google.com/store/apps/details?id=com.Khalid.inspectorspath">Google Play ↗</a>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <strong>08 / DocMobi Healthcare</strong> &nbsp; <code>BACKEND · TELEHEALTH</code><br/>
-      Backend and REST APIs for doctor discovery, booking, records, and real-time consultations.<br/>
-      <sub>Node.js · Express · MongoDB · Socket.IO · JWT · Cloudinary</sub><br/>
-      <a href="https://play.google.com/store/apps/details?id=com.docmobi.app&amp;hl=en">Google Play ↗</a>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <strong>09 / PJ Swag Portal</strong> &nbsp; <code>WEB · ENTERPRISE</code><br/>
-      Front-end for product configuration, uniform allowances, checkout, orders, and shipment tracking.<br/>
-      <sub>Next.js · React · TypeScript · Tailwind CSS · shadcn/ui</sub><br/>
-      <a href="https://portal.pjswag.com/login">Live portal ↗</a>
-    </td>
-  </tr>
-</table>
-
-## Technical range
-
-<table width="100%">
-  <tr>
-    <th width="22%" align="left">Area</th>
-    <th width="78%" align="left">Technologies</th>
-  </tr>
-  <tr>
-    <td><strong>Frontend</strong></td>
-    <td>React, Next.js, TypeScript, JavaScript, Tailwind CSS, shadcn/ui, React Query, Zustand, Framer Motion</td>
-  </tr>
-  <tr>
-    <td><strong>Backend</strong></td>
-    <td>Node.js, Express.js, MongoDB, Mongoose, REST APIs, Socket.IO</td>
-  </tr>
-  <tr>
-    <td><strong>Mobile</strong></td>
-    <td>React Native, Flutter, RevenueCat, App Store, Google Play</td>
-  </tr>
-  <tr>
-    <td><strong>Auth &amp; Integrations</strong></td>
-    <td>Clerk, NextAuth, JWT, Cloudinary, Mapbox, PayPal, AI APIs, Speech-to-Text</td>
-  </tr>
-  <tr>
-    <td><strong>Deployment</strong></td>
-    <td>Vercel, AWS EC2, VPS, Linux, Nginx, PM2, DNS, SSL</td>
-  </tr>
-</table>
-
-## Let's build a real product.
-
-Available for selected freelance projects, product collaborations, and engineering opportunities.
-
-**[View portfolio](https://sozib-hossain.vercel.app)** · **[Send an email](mailto:sozibhossain69@gmail.com)** · **[Connect on LinkedIn](https://www.linkedin.com/in/md-sozib-hossain-4a518038a)**

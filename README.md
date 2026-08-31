@@ -40,7 +40,7 @@ interfaces to APIs, databases, integrations, deployment, and app-store releases.
 
 ## Let's Connect
 
-- Portfolio: [mdsozibhossain.dev](https://mdsozibhossain.dev)
+- Portfolio:https://sozib-hossain.vercel.app
 - LinkedIn: Add your LinkedIn URL
 - Fiverr: Add your Fiverr URL
 - Email: Add your professional email

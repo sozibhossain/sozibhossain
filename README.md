@@ -10,13 +10,17 @@
 
 </div>
 
+<div align="center">
+  <img src="./assets/delivery.svg" width="100%" alt="Animated end-to-end product delivery pipeline" />
+</div>
+
 ## Engineering products, not just pages.
 
 I build complete web and mobile products—from responsive interfaces and backend APIs to databases, integrations, deployment, and app-store release.
 
 My experience includes almost **2 years as a Senior Executive Front-End Developer**, **1 year as a Web Mentor**, and independent delivery for global clients.
 
-<table>
+<table width="100%">
   <tr>
     <td align="center"><strong>22+</strong><br/><sub>WEB APPS</sub></td>
     <td align="center"><strong>33+</strong><br/><sub>DASHBOARDS</sub></td>
@@ -42,7 +46,7 @@ My experience includes almost **2 years as a Senior Executive Front-End Develope
 
 ## Production work
 
-<table>
+<table width="100%">
   <tr>
     <td valign="top">
       <strong>01 / Elevator Video Pitch</strong> &nbsp; <code>WEB · SAAS</code><br/>
@@ -119,13 +123,32 @@ My experience includes almost **2 years as a Senior Executive Front-End Develope
 
 ## Technical range
 
-| Area | Technologies |
-| --- | --- |
-| **Frontend** | React, Next.js, TypeScript, JavaScript, Tailwind CSS, shadcn/ui, React Query, Zustand, Framer Motion |
-| **Backend** | Node.js, Express.js, MongoDB, Mongoose, REST APIs, Socket.IO |
-| **Mobile** | React Native, Flutter, RevenueCat, App Store, Google Play |
-| **Auth & Integrations** | Clerk, NextAuth, JWT, Cloudinary, Mapbox, PayPal, AI APIs, Speech-to-Text |
-| **Deployment** | Vercel, AWS EC2, VPS, Linux, Nginx, PM2, DNS, SSL |
+<table width="100%">
+  <tr>
+    <th width="22%" align="left">Area</th>
+    <th width="78%" align="left">Technologies</th>
+  </tr>
+  <tr>
+    <td><strong>Frontend</strong></td>
+    <td>React, Next.js, TypeScript, JavaScript, Tailwind CSS, shadcn/ui, React Query, Zustand, Framer Motion</td>
+  </tr>
+  <tr>
+    <td><strong>Backend</strong></td>
+    <td>Node.js, Express.js, MongoDB, Mongoose, REST APIs, Socket.IO</td>
+  </tr>
+  <tr>
+    <td><strong>Mobile</strong></td>
+    <td>React Native, Flutter, RevenueCat, App Store, Google Play</td>
+  </tr>
+  <tr>
+    <td><strong>Auth &amp; Integrations</strong></td>
+    <td>Clerk, NextAuth, JWT, Cloudinary, Mapbox, PayPal, AI APIs, Speech-to-Text</td>
+  </tr>
+  <tr>
+    <td><strong>Deployment</strong></td>
+    <td>Vercel, AWS EC2, VPS, Linux, Nginx, PM2, DNS, SSL</td>
+  </tr>
+</table>
 
 ## Let's build a real product.
 

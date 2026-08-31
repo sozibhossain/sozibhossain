@@ -1,8 +1,10 @@
 <div align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Md. Sozib Hossain — Full-Stack Web and Mobile App Developer" />
-</div>
 
-<div align="center">
+# Md. Sozib Hossain
+
+### Full-Stack Web & Mobile App Developer
+
+**Web · Backend · Mobile · Production Release**
 
 [Portfolio](https://sozib-hossain.vercel.app) · [LinkedIn](https://www.linkedin.com/in/md-sozib-hossain-4a518038a) · [Fiverr](https://fiverr.com/sozib3862) · [Email](mailto:sozibhossain69@gmail.com) · [X](https://x.com/sozibhossain62)
 
@@ -10,172 +12,123 @@
 
 ## Engineering products, not just pages.
 
-I am **Md. Sozib Hossain**, a Full-Stack Web & Mobile App Developer based in Bangladesh. I work across the entire product lifecycle—responsive interfaces, backend services, databases, real-time features, third-party integrations, production infrastructure, and app-store release.
+I build complete web and mobile products—from responsive interfaces and backend APIs to databases, integrations, deployment, and app-store release.
 
-My background combines almost **2 years as a Senior Executive Front-End Developer**, **1 year mentoring web developers**, and independent delivery for global clients.
+My experience includes almost **2 years as a Senior Executive Front-End Developer**, **1 year as a Web Mentor**, and independent delivery for global clients.
 
 <table>
   <tr>
-    <td align="center"><strong>22+</strong><br/><sub>WEB APPLICATIONS</sub></td>
-    <td align="center"><strong>33+</strong><br/><sub>ADMIN DASHBOARDS</sub></td>
+    <td align="center"><strong>22+</strong><br/><sub>WEB APPS</sub></td>
+    <td align="center"><strong>33+</strong><br/><sub>DASHBOARDS</sub></td>
     <td align="center"><strong>9</strong><br/><sub>LIVE PRODUCTS</sub></td>
     <td align="center"><strong>3+</strong><br/><sub>MOBILE APPS</sub></td>
-    <td align="center"><strong>7+</strong><br/><sub>BACKEND PROJECTS</sub></td>
+    <td align="center"><strong>7+</strong><br/><sub>BACKENDS</sub></td>
   </tr>
 </table>
 
 ### What I bring to a product
 
-- **Frontend:** responsive, accessible interfaces and scalable component systems
-- **Backend:** REST APIs, authentication, data modeling, media, and real-time communication
-- **Mobile:** cross-platform React Native and Flutter applications for iOS and Android
-- **Integrations:** payments, subscriptions, maps, cloud media, AI APIs, and speech-to-text
-- **Release:** Vercel, VPS, AWS, Nginx, PM2, DNS/SSL, App Store, and Play Store
+- **Frontend:** responsive interfaces and scalable component systems
+- **Backend:** APIs, authentication, databases, media, and real-time features
+- **Mobile:** cross-platform applications for iOS and Android
+- **Integrations:** payments, subscriptions, maps, cloud media, and AI APIs
+- **Release:** web, VPS, App Store, and Play Store deployment
 
-<div align="center">
-  <img src="./assets/pipeline.svg" width="100%" alt="Animated product delivery pipeline from idea to live release" />
-</div>
+## Experience
+
+- **Senior Executive Front-End Developer — Scaleup IT LTD:** almost 2 years
+- **Web Mentor — CodersTrust Bangladesh:** 1 year, 100+ learners
+- **Independent Client Delivery:** 30+ freelance projects with a 5.0-star client rating
 
 ## Production work
 
-Nine products currently featured in my portfolio. Each one represents client-facing delivery—not a tutorial or UI concept.
-
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>01 / Elevator Video Pitch</h3>
-      <p><code>SAAS · WEB</code></p>
-      <p>A video-first recruitment platform connecting candidates, recruiters, and companies through short pitches and job-focused profiles.</p>
-      <p><strong>My delivery:</strong> Candidate, recruiter, and company interfaces; video pitch profiles; job discovery and posting workflows.</p>
-      <p><sub>Next.js · React · Tailwind CSS</sub></p>
-      <a href="https://evpitch.com/"><strong>Live product ↗</strong></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>02 / Prophetic Pathway</h3>
-      <p><code>FULL-STACK · WEB · IOS · ANDROID</code></p>
-      <p>A real-time consultation platform connecting seekers with verified advisors through video, audio, and instant chat.</p>
-      <p><strong>My delivery:</strong> Cross-platform UI, live sessions, per-minute wallet billing, recordings, and transcript experiences.</p>
-      <p><sub>Next.js · React Native · TypeScript · WebRTC · Cloudinary</sub></p>
-      <a href="https://ej-ppathway-website.vercel.app/"><strong>Web ↗</strong></a> · <a href="https://apps.apple.com/us/app/prophetic-pathway/id6774471827"><strong>App Store ↗</strong></a> · <a href="https://play.google.com/store/apps/details?id=com.prophetic.ppathway"><strong>Google Play ↗</strong></a>
+    <td valign="top">
+      <strong>01 / Elevator Video Pitch</strong> &nbsp; <code>WEB · SAAS</code><br/>
+      Front-end for a video-first recruitment platform with multi-role profiles and job workflows.<br/>
+      <sub>Next.js · React · Tailwind CSS</sub><br/>
+      <a href="https://evpitch.com/">Live product ↗</a>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3>03 / Walk Throughz</h3>
-      <p><code>LOCATION · WEB</code></p>
-      <p>A city discovery platform for exploring local places and experiences through short, personal stories.</p>
-      <p><strong>My delivery:</strong> Location discovery, media-rich place storytelling, local deals, and PayPal payment flows.</p>
-      <p><sub>Next.js · React · Tailwind CSS · Cloudinary · PayPal</sub></p>
-      <a href="https://walkthroughz.com/"><strong>Live product ↗</strong></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>04 / EVPitch Pro Recruitment App</h3>
-      <p><code>MOBILE · RECRUITMENT</code></p>
-      <p>A mobile recruitment product built around candidate video pitches, professional profiles, job applications, and recruiter messaging.</p>
-      <p><strong>My delivery:</strong> Full mobile app, video and resume workflows, real-time chat, subscriptions, and Play Store release.</p>
-      <p><sub>React Native · Node.js · Express · MongoDB · Video Streaming</sub></p>
-      <a href="https://play.google.com/store/apps/details?id=com.evpitchrecruitment.careers"><strong>Google Play ↗</strong></a>
+    <td valign="top">
+      <strong>02 / Prophetic Pathway</strong> &nbsp; <code>FULL-STACK · WEB · MOBILE</code><br/>
+      Real-time consultation flows with video, audio, chat, wallet billing, recordings, and transcripts.<br/>
+      <sub>Next.js · React Native · TypeScript · WebRTC · Cloudinary</sub><br/>
+      <a href="https://ej-ppathway-website.vercel.app/">Web ↗</a> · <a href="https://apps.apple.com/us/app/prophetic-pathway/id6774471827">App Store ↗</a> · <a href="https://play.google.com/store/apps/details?id=com.prophetic.ppathway">Google Play ↗</a>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3>05 / SPLURJJ</h3>
-      <p><code>LIFESTYLE · WEB</code></p>
-      <p>A lifestyle media platform blending editorial content, video, podcasts, location-aware discovery, and goal tracking.</p>
-      <p><strong>My delivery:</strong> Responsive content experience, location-aware discovery, media feeds, and the content-to-goal “Mimic” workflow.</p>
-      <p><sub>Next.js · React · TypeScript · Tailwind CSS</sub></p>
-      <a href="https://www.splurjj.com/"><strong>Live product ↗</strong></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>06 / Diamond Auctions</h3>
-      <p><code>AUCTION · E-COMMERCE</code></p>
-      <p>An online auction marketplace supporting buyers, registered bidders, and sellers through dedicated account journeys.</p>
-      <p><strong>My delivery:</strong> Auction discovery, bidder registration and guidance, plus the seller item-submission workflow.</p>
-      <p><sub>Next.js · React · Tailwind CSS</sub></p>
-      <a href="https://diamondauctionsllc.com/"><strong>Live product ↗</strong></a>
+    <td valign="top">
+      <strong>03 / Walk Throughz</strong> &nbsp; <code>WEB · LOCATION</code><br/>
+      Front-end for local discovery, media-rich place stories, deals, and PayPal payments.<br/>
+      <sub>Next.js · React · Tailwind CSS · Cloudinary · PayPal</sub><br/>
+      <a href="https://walkthroughz.com/">Live product ↗</a>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3>07 / Inspectors Path</h3>
-      <p><code>MOBILE · EDUCATION · IOS · ANDROID</code></p>
-      <p>A professional exam-preparation app for API inspector certifications with timed exams, resources, and performance analysis.</p>
-      <p><strong>My delivery:</strong> Full mobile app, exam engine, weak-area analysis, premium resources, purchases, voice controls, and referrals.</p>
-      <p><sub>React Native · RevenueCat · Node.js · Express · MongoDB · Speech-to-Text</sub></p>
-      <a href="https://apps.apple.com/us/app/inspectors-path/id6761355078"><strong>App Store ↗</strong></a> · <a href="https://play.google.com/store/apps/details?id=com.Khalid.inspectorspath"><strong>Google Play ↗</strong></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>08 / DocMobi Healthcare</h3>
-      <p><code>BACKEND · TELEHEALTH</code></p>
-      <p>A telehealth backend powering doctor discovery, appointment booking, patient records, and real-time consultations.</p>
-      <p><strong>My delivery:</strong> Backend architecture, REST APIs, role-based authentication, booking, Socket.IO sessions, media, and notifications.</p>
-      <p><sub>Node.js · Express · MongoDB · REST APIs · Socket.IO · JWT · Cloudinary</sub></p>
-      <a href="https://play.google.com/store/apps/details?id=com.docmobi.app&amp;hl=en"><strong>Google Play ↗</strong></a>
+    <td valign="top">
+      <strong>04 / EVPitch Pro Recruitment App</strong> &nbsp; <code>MOBILE</code><br/>
+      Full mobile delivery covering video pitches, resumes, jobs, recruiter chat, and subscriptions.<br/>
+      <sub>React Native · Node.js · Express · MongoDB · Video Streaming</sub><br/>
+      <a href="https://play.google.com/store/apps/details?id=com.evpitchrecruitment.careers">Google Play ↗</a>
     </td>
   </tr>
   <tr>
-    <td colspan="2" valign="top">
-      <h3>09 / PJ Swag Portal</h3>
-      <p><code>ENTERPRISE · E-COMMERCE · WEB</code></p>
-      <p>An enterprise portal for corporate teams to configure branded merchandise, manage employee uniform allowances, place orders, and follow shipments.</p>
-      <p><strong>My delivery:</strong> Responsive portal UI, product configuration and sizing, budget-allocation flows, checkout, order management, and shipment tracking.</p>
-      <p><sub>Next.js · React · TypeScript · Tailwind CSS · shadcn/ui</sub></p>
-      <a href="https://portal.pjswag.com/login"><strong>Live portal ↗</strong></a>
+    <td valign="top">
+      <strong>05 / SPLURJJ</strong> &nbsp; <code>WEB · LIFESTYLE</code><br/>
+      Front-end for content discovery, media feeds, location-aware experiences, and goal tracking.<br/>
+      <sub>Next.js · React · TypeScript · Tailwind CSS</sub><br/>
+      <a href="https://www.splurjj.com/">Live product ↗</a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <strong>06 / Diamond Auctions</strong> &nbsp; <code>WEB · E-COMMERCE</code><br/>
+      Front-end for auction discovery, bidder registration, and seller item submissions.<br/>
+      <sub>Next.js · React · Tailwind CSS</sub><br/>
+      <a href="https://diamondauctionsllc.com/">Live product ↗</a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <strong>07 / Inspectors Path</strong> &nbsp; <code>MOBILE · IOS · ANDROID</code><br/>
+      Full exam-preparation app with timed tests, analytics, purchases, voice controls, and referrals.<br/>
+      <sub>React Native · RevenueCat · Node.js · Express · MongoDB · Speech-to-Text</sub><br/>
+      <a href="https://apps.apple.com/us/app/inspectors-path/id6761355078">App Store ↗</a> · <a href="https://play.google.com/store/apps/details?id=com.Khalid.inspectorspath">Google Play ↗</a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <strong>08 / DocMobi Healthcare</strong> &nbsp; <code>BACKEND · TELEHEALTH</code><br/>
+      Backend and REST APIs for doctor discovery, booking, records, and real-time consultations.<br/>
+      <sub>Node.js · Express · MongoDB · Socket.IO · JWT · Cloudinary</sub><br/>
+      <a href="https://play.google.com/store/apps/details?id=com.docmobi.app&amp;hl=en">Google Play ↗</a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <strong>09 / PJ Swag Portal</strong> &nbsp; <code>WEB · ENTERPRISE</code><br/>
+      Front-end for product configuration, uniform allowances, checkout, orders, and shipment tracking.<br/>
+      <sub>Next.js · React · TypeScript · Tailwind CSS · shadcn/ui</sub><br/>
+      <a href="https://portal.pjswag.com/login">Live portal ↗</a>
     </td>
   </tr>
 </table>
 
 ## Technical range
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <strong>INTERFACES</strong><br/><br/>
-      React · Next.js<br/>
-      TypeScript · JavaScript<br/>
-      Tailwind CSS · shadcn/ui<br/>
-      React Query · Zustand<br/>
-      Framer Motion
-    </td>
-    <td width="33%" valign="top">
-      <strong>SERVICES & DATA</strong><br/><br/>
-      Node.js · Express.js<br/>
-      MongoDB · Mongoose<br/>
-      REST APIs · Socket.IO<br/>
-      Clerk · NextAuth · JWT<br/>
-      Cloudinary · Mapbox
-    </td>
-    <td width="33%" valign="top">
-      <strong>MOBILE & RELEASE</strong><br/><br/>
-      React Native · Flutter<br/>
-      RevenueCat · In-App Purchase<br/>
-      AWS EC2 · VPS · Vercel<br/>
-      Linux · Nginx · PM2<br/>
-      App Store · Google Play
-    </td>
-  </tr>
-</table>
-
-## Experience
-
-```text
-LATEST ROLE   Senior Executive Front-End Developer · Scaleup IT LTD · Almost 2 years
-MENTORSHIP    Web Mentor · CodersTrust Bangladesh · 1 year · 100+ learners
-FOUNDATION    Independent client delivery · 30+ projects · 5.0-star client rating
-```
-
-Beyond implementation, I am comfortable translating requirements into product flows, communicating with clients, supporting releases, and maintaining products after launch.
+| Area | Technologies |
+| --- | --- |
+| **Frontend** | React, Next.js, TypeScript, JavaScript, Tailwind CSS, shadcn/ui, React Query, Zustand, Framer Motion |
+| **Backend** | Node.js, Express.js, MongoDB, Mongoose, REST APIs, Socket.IO |
+| **Mobile** | React Native, Flutter, RevenueCat, App Store, Google Play |
+| **Auth & Integrations** | Clerk, NextAuth, JWT, Cloudinary, Mapbox, PayPal, AI APIs, Speech-to-Text |
+| **Deployment** | Vercel, AWS EC2, VPS, Linux, Nginx, PM2, DNS, SSL |
 
 ## Let's build a real product.
 
-I am available for selected freelance projects, product collaborations, and engineering opportunities involving web, mobile, backend, or end-to-end delivery.
+Available for selected freelance projects, product collaborations, and engineering opportunities.
 
-<div align="center">
-
-[**VIEW PORTFOLIO**](https://sozib-hossain.vercel.app) &nbsp;·&nbsp; [**START A CONVERSATION**](mailto:sozibhossain69@gmail.com) &nbsp;·&nbsp; [**CONNECT ON LINKEDIN**](https://www.linkedin.com/in/md-sozib-hossain-4a518038a)
-
-<br/>
-
-<sub>DESIGNED AROUND MY PORTFOLIO SYSTEM · BUILT FOR GITHUB · BANGLADESH / UTC+6</sub>
-
-</div>
+**[View portfolio](https://sozib-hossain.vercel.app)** · **[Send an email](mailto:sozibhossain69@gmail.com)** · **[Connect on LinkedIn](https://www.linkedin.com/in/md-sozib-hossain-4a518038a)**
